@@ -1,2 +1,1 @@
-# OAM-App-V2
-One Stop Artist Management app
+OAM Studio v19. Based on approved v17. Fixes PDF and uploaded artwork handling: removes only true solid top/bottom letterbox bars from banner artwork; preserves normal OAM black logo backgrounds; no left/right cropping or stretching. Existing saved artwork is normalized on load and on upload. All approved quote/invoice layout and quote conversion features retained.
